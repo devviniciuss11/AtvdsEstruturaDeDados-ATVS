@@ -1,5 +1,5 @@
-//Este trabalho consiste no desenvolvimento de um programa em Java com o objetivo de aplicar os conceitos de Estrutura de Dados utilizando a classe ArrayList.
-//A atividade envolve a criação e manipulação de objetos do tipo Pessoa
+package ATV_1_CriarUmArrayList;//Este trabalho consiste no desenvolvimento de um programa em Java com o objetivo de aplicar os conceitos de Estrutura de Dados utilizando a classe ArrayList.
+//A atividade envolve a criação e manipulação de objetos do tipo ATV_1_CriarUmArrayList.Pessoa
 // realizando operações como inserção, acesso, alteração, remoção, verificação, iteração e limpeza da lista, praticando os principais métodos da API de coleções.
 import java.util.ArrayList;
 public class Pessoa {
